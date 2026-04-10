@@ -2,8 +2,12 @@
 layout: default
 ---
 ## Contact Information
-Email: Diegosflores0@gmail.com
-Linkedin: https://www.linkedin.com/in/diego-flores-bb7996366?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+Email: [Diegosflores0@gmail.com](mailto:Diegosflores0@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/diego-flores-bb7996366)
+
+[GitHub](https://github.com/diegosflores0-png)
  
 
 # Introduction
