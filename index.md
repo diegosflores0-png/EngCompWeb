@@ -4,11 +4,7 @@ layout: default
 ## Contact Information
 Email: Diegosflores0@gmail.com
 Linkedin: https://www.linkedin.com/in/diego-flores-bb7996366?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-Resume: 
-
-
-[Link to another page](./another-page.html).
-
+ 
 
 # Introduction
 
