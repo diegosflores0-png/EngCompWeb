@@ -1,5 +1,9 @@
 title: Diego Flores' Website
+<<<<<<< HEAD
+logo: /assets/img/7443.jpg
+=======
 logo: /assets/img/logo.jpg
+>>>>>>> bc7fde946d8553dab8cd274e9c73980f70ee5080
 description: I'm Diego Flores, a Mechanical Engineer at the George Washington University apart of the class of 2029. I am intrested in coding, buidling things, and the legalities behind what it takes to patent inventions. 
 show_downloads: true
 google_analytics:
